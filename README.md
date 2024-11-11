@@ -1,16 +1,13 @@
-## Hi there 👋
+### Bem vindo 
 
-<!--
-**Rkziin/Rkziin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Rafael Krasowski
 
-Here are some ideas to get you started:
+ - Sou Estudante;
+ - Estou estundando as linguagens CCS, HTML e JavaScript;
+ - Utilizo ese espaço para minha organização e compartilhameno de projetos desenvolvido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Meu endereço de e-mail📫
+
+ - krasowski.cruz@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/xlPBMRASMmkAAAAC/fiel-fiel-torcida.gif)
